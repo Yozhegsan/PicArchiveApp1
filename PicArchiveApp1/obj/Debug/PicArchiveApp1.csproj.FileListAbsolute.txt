@@ -1,0 +1,12 @@
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\PicArchiveApp1.csprojAssemblyReference.cache
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\PicArchiveApp1.Form1.resources
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\PicArchiveApp1.csproj.GenerateResource.cache
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\PicArchiveApp1.csproj.CoreCompileInputs.cache
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\PicArchiveApp1.Form2.resources
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\PicArchiveApp1.frmFind.resources
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\bin\Debug\Archivist.exe.config
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\bin\Debug\Archivist.exe
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\bin\Debug\Archivist.pdb
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\Archivist.Properties.Resources.resources
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\Archivist.exe
+D:\Prj(VS2017)\PicArchiveApp1\PicArchiveApp1\obj\Debug\Archivist.pdb
